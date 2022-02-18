@@ -14,7 +14,7 @@
 <table class="table">
   <tr>
     <th>속성</th>
-    <th>속성 값</th>
+    <th>속성 값이었던것</th>
   </tr>
   <tr>
     <td>PNO</td>
